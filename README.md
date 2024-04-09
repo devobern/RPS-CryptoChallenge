@@ -1,1 +1,2 @@
 # RPS-CryptoChallenge
+"A hands-on project for the Applied Cryptography 1 course, RPS-CryptoChallenge utilizes Python to implement a secure, commitment-based Rock-Paper-Scissors game. This project integrates cryptographic principles like hash functions, nonce generation, and entropy collection to ensure game fairness and unpredictability."
